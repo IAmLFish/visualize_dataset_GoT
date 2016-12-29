@@ -51,4 +51,6 @@ Even here, observation 1 seems to hold still.
 
 Characters labeled with `isPopular` also seem to have correlations with `hadMoreWinsThanLosses`
 
+Furthermore, popular attacking commanders seem to have different features than non-popular attacking commanders.
+
 ![title](isPopular_commanders_edit.PNG)
