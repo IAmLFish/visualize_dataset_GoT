@@ -35,18 +35,18 @@ Here are some general insights.
 ## Observation 1:
 `isPopular` seems to have correlations with `boolDeadRelations`.
 
-![title](isPopular_edit.png)
+![title](isPopular_edit.PNG)
 
 ## Observation 2:
 Observation 1 seems to hold still.
 
 However, we can see characters labeled with `wasCommander` are seperated from all others (which makes sense because they have way more  distinguishable features than "not-commanders"). 
 
-![title](isPopular_extended.png)
+![title](isPopular_extended.PNG)
 
 ## Observation 3:
 Even here, observation 1 seems to hold still.
 
 Characters labeled with `isPopular` also seem to have correlations with `hadMoreWinsThanLosses`
 
-![title](isPopular_commanders_edit.png)
+![title](isPopular_commanders_edit.PNG)
