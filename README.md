@@ -28,6 +28,7 @@ I also uploaded this version to kaggle:<br>
 * Making labels bigger
 
 # Observations:
+## ! NOTE !: All visible results in this revision are based on scikit-learn version 0.17.1 instead of the newer version 0.18.1. I've noticed it too late, after I updoaded this version also to kaggle where my results looked different.
 More described observations can be found in `analysis.ipynb`.
 
 Here are some general insights.
