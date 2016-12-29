@@ -7,6 +7,8 @@ I also uploaded this version to kaggle:<br>
 # First of all ...
 ... I do no guarantee for correctness or adequacy. With this project I was learning a bit more how to understand and use t-SNE.
 
+## !!! NOTE: All visible results in this revision are based on scikit-learn version 0.17.1 instead of the newer version 0.18.1. I've noticed it too late, after I updoaded this version also to kaggle where my results looked different :(
+
 # What I did
 * Took a character based perspective on features
 * Aimed to use summable/continuous features
@@ -28,7 +30,6 @@ I also uploaded this version to kaggle:<br>
 * Making labels bigger
 
 # Observations:
-## ! NOTE !: All visible results in this revision are based on scikit-learn version 0.17.1 instead of the newer version 0.18.1. I've noticed it too late, after I updoaded this version also to kaggle where my results looked different.
 More described observations can be found in `analysis.ipynb`.
 
 Here are some general insights.
